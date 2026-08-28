@@ -1,0 +1,11 @@
+NovaTrust Bank KYC Requirements
+KYC verification is required before opening a NovaTrust customer account.
+Customers must provide a valid government-issued identity document.
+Customers must also provide a valid address document when required.
+A recent customer photograph may be requested during verification.
+The registered mobile number must be verified using an OTP.
+KYC information must be kept accurate and updated.
+Customers can update KYC information at a NovaTrust branch.
+Additional documents may be requested based on the account type.
+Incomplete KYC information may delay account activation.
+Customers should never share OTPs or passwords with another person.

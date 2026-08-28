@@ -1,0 +1,10 @@
+NovaTrust Bank Credit Card Types
+NovaTrust offers three fictional credit cards: Basic, Rewards, and Travel.
+The Basic Card has an annual fee of ₹500.
+The Rewards Card has an annual fee of ₹1,000.
+The Travel Card has an annual fee of ₹1,500.
+The Basic Card provides 1 reward point per ₹100 spent.
+The Rewards Card provides 2 reward points per ₹100 spent.
+The Travel Card provides 3 reward points per ₹100 spent on travel purchases.
+All three cards require successful KYC verification before issuance.
+Customers can request a card through NovaTrust net banking or a branch.

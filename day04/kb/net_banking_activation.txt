@@ -1,0 +1,11 @@
+NovaTrust Bank Net Banking Activation
+Customers can activate net banking through the NovaTrust website.
+The customer must have an active NovaTrust account.
+The registered mobile number must be available for OTP verification.
+The customer needs their account number and debit card details for registration.
+A login password must be created during activation.
+The login password must not be shared with anyone.
+Customers can reset a forgotten password using the registered mobile number.
+Three incorrect login attempts may temporarily lock online access.
+Customers should contact NovaTrust support if access remains locked.
+Net banking provides account viewing, transfers, statements, and service requests.

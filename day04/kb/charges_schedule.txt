@@ -1,0 +1,11 @@
+NovaTrust Bank Charges Schedule
+The NovaTrust savings account minimum balance requirement is ₹1,000.
+A physical debit card replacement fee is ₹150.
+The annual fee for the Basic Credit Card is ₹500.
+The annual fee for the Rewards Credit Card is ₹1,000.
+The annual fee for the Travel Credit Card is ₹1,500.
+A duplicate account statement request costs ₹50.
+A duplicate cheque book request costs ₹100.
+The standard NEFT service charge in this synthetic schedule is ₹10.
+The standard RTGS service charge is ₹20.
+Applicable charges may be reviewed through the NovaTrust service schedule.

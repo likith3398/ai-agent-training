@@ -1,0 +1,11 @@
+NovaTrust Bank Grievance Escalation Matrix
+Customers should first raise complaints with NovaTrust customer support.
+Customer support is the first escalation level.
+If unresolved after 3 working days, the complaint moves to Level 2.
+Level 2 complaints are handled by the Customer Resolution Team.
+If unresolved after 7 working days, the complaint moves to Level 3.
+Level 3 complaints are handled by the Grievance Officer.
+Customers should keep their complaint reference number for follow-up.
+The fictional grievance email is grievance@novatrust.example.
+Customers should include relevant transaction or complaint details.
+Escalation timelines begin from the date the complaint is registered.

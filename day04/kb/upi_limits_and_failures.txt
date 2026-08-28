@@ -1,0 +1,11 @@
+NovaTrust Bank UPI Limits and Failures
+The maximum UPI transaction amount is ₹50,000 per transaction.
+The maximum daily UPI transaction amount is ₹1,00,000.
+A customer can make up to 20 successful UPI transactions per day.
+A UPI transaction may fail because of insufficient account balance.
+Transactions may also fail because of incorrect UPI PIN or temporary service issues.
+Customers should not repeatedly enter an incorrect UPI PIN.
+After three incorrect UPI PIN attempts, UPI access is temporarily blocked.
+Customers should wait 30 minutes before attempting UPI again after a PIN block.
+Failed transactions should normally be checked in transaction history.
+Customers can raise a complaint if a failed transaction is not resolved.

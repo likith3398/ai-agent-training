@@ -1,0 +1,11 @@
+NovaTrust Bank Fixed Deposit Basics
+NovaTrust Fixed Deposits can be opened with a minimum deposit of ₹5,000.
+The available deposit periods range from 6 months to 60 months.
+The synthetic standard interest rate is 6.50% per year.
+Interest is calculated according to the selected deposit period.
+Customers can choose monthly, quarterly, or maturity interest payout options.
+Premature withdrawal may result in reduced interest.
+The minimum premature withdrawal period is 3 months.
+Fixed Deposits can be opened through net banking or at a NovaTrust branch.
+Customers receive a deposit confirmation after the Fixed Deposit is created.
+The maturity amount depends on the deposit amount, tenure, and applicable rate.
